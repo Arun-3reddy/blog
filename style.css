@@ -78,7 +78,7 @@ img {
     border-width: 50px;
     animation-duration: calc(43);
     box-shadow: #fff;
-    align-items:end;
+    align-items:right;
 }
 .project {
   background-color: rgb(94, 75, 113);
